@@ -176,3 +176,7 @@ myenv/
 .DS_Store
 __pycache__/
 tests/ # 만약 테스트 코드가 필요 없다면 추가!
+myenv/
+tests/
+.DS_Store
+__pycache__/
