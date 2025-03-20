@@ -2,8 +2,8 @@ from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QGr
 import sys
 
 class CalculatorApp(QWidget):
-         def __init__(self):
-            super().__init__()
+    def __init__(self):
+        super().__init__()
         self.initUI()
 
     def initUI(self):
